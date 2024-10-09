@@ -1,4 +1,4 @@
-Hello this is a simple assembly runner for kali-linux.
+Hello this is a simple assembly runner for linux.
 
 How to use:
 
